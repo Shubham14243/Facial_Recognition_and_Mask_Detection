@@ -26,15 +26,17 @@ Go to the project directory
 ```
 ## Screenshots
 
-![Screenshot 2023-10-02 204457](https://github.com/Shubham14243/Facial_Recognition_and_Mask_Detection/assets/126408006/ba6dca48-77fb-4288-ba9b-11a73ba8b8a1)
+![Screenshot 2023-10-02 220210](https://github.com/Shubham14243/Facial_Recognition_and_Mask_Detection/assets/126408006/970a8f77-8b98-48eb-94b0-15ccbf62f32b)
 
-![Screenshot 2023-10-02 204512](https://github.com/Shubham14243/Facial_Recognition_and_Mask_Detection/assets/126408006/5f83de22-0a99-472c-8030-592b5e6d2c41)
+![Screenshot 2023-10-02 220224](https://github.com/Shubham14243/Facial_Recognition_and_Mask_Detection/assets/126408006/046f5562-f40d-47fc-ac18-b5be1fdd479f)
 
-![Screenshot 2023-10-02 204711](https://github.com/Shubham14243/Facial_Recognition_and_Mask_Detection/assets/126408006/8e759063-b741-405b-9145-d1941aace263)
+![Screenshot 2023-10-02 220235](https://github.com/Shubham14243/Facial_Recognition_and_Mask_Detection/assets/126408006/5a566a12-012d-41fd-9051-4a2d899d77c2)
 
-![Screenshot 2023-10-02 204727](https://github.com/Shubham14243/Facial_Recognition_and_Mask_Detection/assets/126408006/aeda7b99-0912-406a-9488-f0e6e34f8d86)
+![Screenshot 2023-10-02 220318](https://github.com/Shubham14243/Facial_Recognition_and_Mask_Detection/assets/126408006/f16dba99-110e-43aa-a86f-6e325e93e87b)
 
-![Screenshot 2023-10-02 204911](https://github.com/Shubham14243/Facial_Recognition_and_Mask_Detection/assets/126408006/2b17841f-0207-4dfc-b333-d2993c8e2357)
+![Screenshot 2023-10-02 220405](https://github.com/Shubham14243/Facial_Recognition_and_Mask_Detection/assets/126408006/5188eeeb-394b-4a64-b4c2-e7a613bb20c7)
+
+![Screenshot 2023-10-02 220435](https://github.com/Shubham14243/Facial_Recognition_and_Mask_Detection/assets/126408006/0f58fbcf-5d37-4aad-9b26-e31cdbc96949)
 
 
 ## Authors
