@@ -15,6 +15,10 @@ Install required libraries to run the application
 
 ## Run Application
 
+Go to the link given below and download **yolov3.weights** file and paste it inside the **yolo-coco** folder
+
+https://drive.google.com/file/d/1lKMECNgA_NN5rwcQyfFnHmd-J723gC24/view?usp=sharing
+
 Go to the project directory
 
 ```bash
